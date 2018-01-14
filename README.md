@@ -1,7 +1,8 @@
 # VmToFtl
+
 convert velocity file to freemarker file 
 
-示例:
+### 示例:
 
 -d后跟目录,-f后跟文件
 
@@ -11,7 +12,7 @@ convert velocity file to freemarker file
 
 -f index.html index.htm --转换index.html为index.htm,最好用ftl,idea能识别方便敲代码
 
-##关于pattern.txt
+### 关于pattern.txt
 
 存放替换用的正则表达式,用逗号(,)分隔
 
