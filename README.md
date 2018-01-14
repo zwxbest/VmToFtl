@@ -20,6 +20,6 @@ convert velocity file to freemarker file
 
 三个#即###表示注释
 
-本代码只是在http://doc.justonetech.com/freemarker-2.3.10/docs/usCavalry.html加了一点正则替换,感觉好笨,也没找到更好的.
+本代码只是在[cavary](http://doc.justonetech.com/freemarker-2.3.10/docs/usCavalry.html)上加了一点正则替换,感觉好笨,也没找到更好的.
 
 如果有更好的,请告知zhvxiao@163.com,感激不尽.
