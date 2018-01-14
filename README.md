@@ -1,5 +1,6 @@
 # VmToFtl
 convert velocity file to freemarker file 
+
 示例:
 -d后跟目录,-f后跟文件
 -d H:\untitled html --转换H:\untitled目录以及子目录下的所有html文件到ftl文件,自动命名.ftl
