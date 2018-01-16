@@ -1,7 +1,7 @@
 ###处理？exist
 \?if_exists,thisisnull
 ###处理id选择器#的冲突
-<#call\s*([a-zA-z_0-9]+),#$1
+<#call\s*([a-zA-z_0-9]+)>,#$1
 ###size()方法不支持
 \.size\(\),\?size
 ###map.get方法不支持
